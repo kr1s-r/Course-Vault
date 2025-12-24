@@ -1,4 +1,5 @@
 # ENEL 453 Resources
+Course Playlist: [DDCA Chapter 4 - HDLs](https://www.youtube.com/playlist?list=PLZrXAuM5hwx7tmKUNHwdzEqHiR3rmpMwY) | [DDCA Chapter 5 - Digital Building Blocks](https://www.youtube.com/playlist?list=PLZrXAuM5hwx5kpcZYBL-rXvm_kOGgmfKN)
 
 ### Course Overview
 - This course focuses on the design, implementation, and testing of digital systems using Hardware Description Languages (HDLs) on an FPGA. You will learn to design combinational and sequential logic circuits, develop testbenches, and implement FSMs. This course is very hands-on, enabling you to work with real hardware and simulation tools, bridging theoretical concepts from ENEL 353 with practical digital systems.
@@ -18,6 +19,7 @@
 - [Flash ADC and Half-Flash ADC Explained | All About Electronics](https://www.youtube.com/watch?v=NASkjo7s8f4)
 - [Successive Approximation Explained | All About Electronics](https://www.youtube.com/watch?v=h0CGtr4SC9s)
 - [Successive Approximation for ADC | University of Cambridge Example Verilog Code](https://www.cl.cam.ac.uk/teaching/0304/ECAD/ExtraExamples/ADCcontroller.pdf)
+
 ### GitHub
 - [Making Vivado from Git friendly | barbedo/vivado-git](https://github.com/barbedo/vivado-git/tree/master)
 
@@ -25,4 +27,4 @@
 - [For Interview Prep | HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 - [UVM | Siemens Verification Academy](https://verificationacademy.com/topics/uvm-universal-verification-methodology/uvm-basics/)
 - [Research Papers by Cliff Cummings](https://www.paradigm-works.com/technical-library) (check his Google Scholar as well)
-- [Intel FPA Youtube Channel (Altera)](https://www.youtube.com/user/alteracorp/videos)
+- [Intel FPGA Youtube Channel (Altera)](https://www.youtube.com/user/alteracorp/videos)
